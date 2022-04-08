@@ -108,10 +108,6 @@ input, select, textarea {
 		}
 
 /* Spinner */
-
-	body,html {
-  background: #000000;
-  padding-top: 50px;
 }
 
 .spinner {
