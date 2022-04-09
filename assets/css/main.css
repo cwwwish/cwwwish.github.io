@@ -2311,7 +2311,7 @@ body{
 }
 
 .layer::after{
-    font: 55px/0.65 "Pacifico", "Kaushan Script", Futura, "Roboto", "Trebuchet MS", Helvetica, sans-serif;
+    font: 29px/0.25 "Pacifico", "Kaushan Script", Futura, "Roboto", "Trebuchet MS", Helvetica, sans-serif;
     content: "CWWWISH";
     white-space: pre;
     text-align: center;
