@@ -2385,7 +2385,7 @@ body{
 }
 
 .layer:nth-child(n+10):after {
-    -webkit-text-stroke: 3px rgba(255, 255, 255, 0.25);
+    -webkit-text-stroke: 3px rgba(0, 0, 0, 0.25);
 }
 
 .layer:nth-child(n+11):after {
@@ -2395,12 +2395,9 @@ body{
     -webkit-text-stroke: 15px #45bbcf;
 }
 .layer:last-child:after {
-    -webkit-text-stroke: 17px rgba(255, 255, 255, 0.1);
+    -webkit-text-stroke: 17px rgba(0, 0, 0, 0.1);
 }
-.layer:first-child:after {
-    color: #fff;
-    text-shadow: none;
-}
+
 
 @keyframes testcss {
     100% {
