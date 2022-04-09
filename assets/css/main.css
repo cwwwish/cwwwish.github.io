@@ -2391,7 +2391,6 @@ body{
 
 .layer:nth-child(n+11):after {
     -webkit-text-stroke: 15px #42a9bb;
-    text-shadow: 6px 0 6px #317e8b;
 }
 .layer:nth-child(n+12):after {
     -webkit-text-stroke: 15px #45bbcf;
