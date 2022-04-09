@@ -2390,11 +2390,11 @@ body{
 }
 
 .layer:nth-child(n+11):after {
-    -webkit-text-stroke: 15px #9325c2;
-    text-shadow: 6px 0 6px #590080, 5px 5px 5px #3f005a, 0 6px 6px #590080;
+    -webkit-text-stroke: 15px #42a9bb;
+    text-shadow: 6px 0 6px #317e8b, 5px 5px 5px #3f005a, 0 6px 6px #590080;
 }
 .layer:nth-child(n+12):after {
-    -webkit-text-stroke: 15px #C500FF;
+    -webkit-text-stroke: 15px #45bbcf;
 }
 .layer:last-child:after {
     -webkit-text-stroke: 17px rgba(0, 0, 0, 0.1);
