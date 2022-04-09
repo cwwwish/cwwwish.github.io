@@ -2136,7 +2136,7 @@ input, select, textarea {
 
 			#footer ul.menu li {
 				border-left-color: rgba(185, 186, 187, 0.2);
-				font-size: .75em;
+				font-size: 1.1em;
 			}
 
 		@media screen and (max-width: 1000px) {
