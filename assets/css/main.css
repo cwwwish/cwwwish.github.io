@@ -1769,7 +1769,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(214, 214, 214, 0.95);
+		background: rgba(0, 0, 0, 0);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -1980,11 +1980,11 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+				background: #000000;
 			}
 
 			.main.style3.secondary {
-				background: #f5f6f7;
+				background: #000000;
 			}
 
 		.main.dark {
@@ -2113,8 +2113,8 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: rgb(228, 228, 228);
-		color: rgba(0, 0, 0, 0.5);
+		background: rgb(0, 0, 0);
+		color: rgba(255, 255, 255, 0.5);
 		overflow: hidden;
 	}
 
@@ -2136,7 +2136,7 @@ input, select, textarea {
 
 			#footer ul.menu li {
 				border-left-color: rgba(185, 186, 187, 0.2);
-				font-size: 2em;
+				font-size: .75em;
 			}
 
 		@media screen and (max-width: 1000px) {
