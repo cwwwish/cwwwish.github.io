@@ -2450,13 +2450,6 @@ body {
 	  box-sizing: border-box;
   }
   
-  body {
-	  background-color: #fdf9fd;
-	  color: #ffffff;
-	  font: 16px/1.25 'Raleway', sans-serif;
-	  text-align: center;
-  }
-  
   #wrapper {
 	  margin-left: auto;
 	  margin-right: auto;
