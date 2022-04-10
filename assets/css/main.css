@@ -2276,7 +2276,12 @@ input, select, textarea {
 @import url("//fonts.googleapis.com/css?family=Roboto:700&text=css");
 @import url("//fonts.googleapis.com/css?family=Kaushan+Script&text=!");
 
-
+body{
+    min-height: 1px;
+    height: 1px;
+    margin: auto;
+    background: radial-gradient(circle, #ffffff, #000000, #42a9bb, #000000);
+}
 .stage{
     height: 200px;
     width: 500px;
