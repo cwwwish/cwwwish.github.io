@@ -16,7 +16,7 @@ $PROJECT_ROOT
 ├── Assets
 │   # CSS #JS #SASS #WEBFONTS
 ├── Images
-└── Index.html
+├── Index.html
 
 
 ## License
