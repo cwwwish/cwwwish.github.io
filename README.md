@@ -18,6 +18,10 @@ $PROJECT_ROOT
 ├── Images
 ├── Index.html
 
+## Usage
+
+Open `index.html` in your browser to view the site locally. The portfolio now includes a dedicated contact section and descriptive alt text for gallery images to improve accessibility.
+
 
 ## License
 
